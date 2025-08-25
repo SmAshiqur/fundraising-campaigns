@@ -3,7 +3,7 @@
  * Plugin Name: WP Fundraising Campaigns
  * Plugin URI: https://masjidsolutions.net/
  * Description: Display beautiful fundraising campaigns with progress bars and donation options.
- * Version: 1.0.2
+ * Version: 1.0.3
  * Author: MASJIDSOLUTIONS
  * Author URI: https://masjidsolutions.net/
  * Text Domain: wpfc

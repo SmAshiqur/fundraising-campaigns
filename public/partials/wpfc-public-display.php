@@ -97,7 +97,7 @@ $instance_id = 'wpfc-' . uniqid();
         <p class="wpfc-description"><?php //echo wp_kses_post($description); ?></p>
     </header> -->
     
-    <p class="wpfc-all-camp">All Campaigns 123</p>
+    <p class="wpfc-all-camp">All Campaigns</p>
 
     <div class="wpfc-campaigns-container">
         
