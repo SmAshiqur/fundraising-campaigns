@@ -1,0 +1,37 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+ .wpfc-admin-shortcode-section {
+    margin-top: 30px;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-left: 4px solid #25785c;
+    border-radius: 3px;
+}
+
+.wpfc-admin-shortcode-section h3 {
+    margin-top: 0;
+    color: #23282d;
+}
+
+.wpfc-admin-shortcode-section code {
+    display: inline-block;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    padding: 5px 10px;
+    border-radius: 3px;
+    font-family: monospace;
+    margin: 5px 0;
+}
+
+.wpfc-admin-shortcode-section ul {
+    list-style-type: disc;
+    margin-left: 20px;
+}
+
+.wpfc-admin-shortcode-section h4 {
+    margin: 20px 0 10px;
+    color: #23282d;
+}
